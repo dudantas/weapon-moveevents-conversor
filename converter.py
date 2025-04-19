@@ -64,7 +64,7 @@ type_mapping = {
     'WEAPON_AMMO': 'ammo',
     'WEAPON_QUIVER': 'quiver',
     'WEAPON_MISSILE': 'missile',
-    'WEAPON_FIRST': 'first'
+    'WEAPON_FIST': 'first'
 }
 
 def to_weapon_string(raw):
